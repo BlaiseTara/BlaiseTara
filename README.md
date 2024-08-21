@@ -4,7 +4,7 @@
   You can contact me at btaratuta09@gmail.com
 </h3>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello,+World!)(https://github.com/BlaiseTara)]
+![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&lines=Hello,+World!)
 
 Here is some random stats that no one will read
 
