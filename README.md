@@ -29,6 +29,7 @@ I sometimes make Low Quality [youtube videos](https://www.youtube.com/@LowQualit
 Here is some random stats that no one will read
 
 ![BlaiseTara](https://github-readme-stats.vercel.app/api?username=BlaiseTara&show_icons=true&theme=tokyonight&hide=["issues"])
+
 ![BlaiseTara](https://github-readme-stats.vercel.app/api/top-langs?username=BlaiseTara&show_icons=true&theme=tokyonight&layout=compact)
 
 Has anyone actually read any of this?
