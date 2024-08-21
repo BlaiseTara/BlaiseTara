@@ -26,8 +26,6 @@ Has anyone actually read any of this?
  - Godot
  - also Godot
 
-I sometimes make Low Quality [youtube videos](https://www.youtube.com/@LowQualityCoding)
-
 **Some other things I like:**
  - Electrical Engineering Stuff
  - Arduino
