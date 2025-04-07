@@ -10,18 +10,22 @@
 
 
 
-**I sometimes write code using:**
+**I write code using:**
  - Python
  - C++
  - JavaScript
+ - C#
+ - GdScript
+ - Kotlin with Android Studio
+(I'm not 100% fluent in all these languages but I do know how to use them)
  
 **I also like to use Game Engines like:**
  - Godot
  - Unity
 
 **Some other things I like:**
- - Electrical Engineering Stuff
- - Arduino
- - Raspberry PI
+ - Electrical Engineering
+ - Arduino Microcontrollers
+ - Raspberry PI Computers
  - Game Dev (PC and Mobile)
- - Digital Art
+ - Digital Drawing / Normal Drawing
