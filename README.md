@@ -17,7 +17,7 @@
  - C#
  - GdScript
  - Kotlin with Android Studio
-(I'm not 100% fluent in all these languages but I do know how to use them)
+ - (I'm not 100% fluent in all these languages but I do know how to use them)
  
 **I also like to use Game Engines like:**
  - Godot
