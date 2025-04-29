@@ -29,3 +29,5 @@
  - Raspberry PI Computers
  - Game Dev (PC and Mobile)
  - Digital Drawing / Normal Drawing
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41E8QBW)
