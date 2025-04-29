@@ -3,6 +3,7 @@
 <h3 align="left">
   You can contact me at btaratuta09@gmail.com
 </h3>
+
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/A0A41E8QBW)
 
 ![BlaiseTara](https://github-readme-stats.vercel.app/api?username=BlaiseTara&show_icons=true&theme=tokyonight&hide=["issues"])
