@@ -4,8 +4,8 @@
   You can contact me at btaratuta09@gmail.com
 </h3>
 
+My PalPal
 <a href="https://paypal.me/BlaiseTaratuta?country.x=US&locale.x=en_US" target="_blank">
-  <p>My PayPal</p>
   <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal button" />
 </a>
 
