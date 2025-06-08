@@ -4,8 +4,8 @@
   You can contact me at btaratuta09@gmail.com
 </h3>
 
-<a href="[https://www.paypal.com/donate?hosted_button_id=YOUR_ID](https://paypal.me/BlaiseTaratuta?country.x=US&locale.x=en_US)" target="_blank">
-  <img src="https://img.shields.io/badge/Donate-PayPal-blue.svg" alt="My PayPal" />
+<a href="https://paypal.me/BlaiseTaratuta?country.x=US&locale.x=en_US" target="_blank">
+  <img src="https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif" alt="Donate with PayPal button" />
 </a>
 
 ![BlaiseTara](https://github-readme-stats.vercel.app/api?username=BlaiseTara&show_icons=true&theme=tokyonight&hide=["issues"])
