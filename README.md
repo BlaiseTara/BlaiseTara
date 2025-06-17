@@ -1,7 +1,7 @@
 ## My name is Blaise.
 
 <h3 align="left">
-  You can contact me at btaratuta09@gmail.com
+  You can contact me at blaise@logicerror.dev
 </h3>
 
 <a href="https://paypal.me/BlaiseTaratuta?country.x=US&locale.x=en_US" target="_blank">
